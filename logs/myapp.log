@@ -1,0 +1,2 @@
+2024-11-29T12:58:58.468+05:30  INFO 3520 --- [Logging] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2024-11-29T12:58:58.600+05:30  INFO 3520 --- [Logging] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete

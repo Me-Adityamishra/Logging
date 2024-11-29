@@ -1,0 +1,11 @@
+29/Nov/2024 12:59:38 pm [main] INFO  c.aditya.Logging.LoggingApplication - Starting LoggingApplication using Java 21.0.2 with PID 3420 (C:\Users\Aditya\OneDrive\Desktop\JavaProject\Logging\target\classes started by Aditya in C:\Users\Aditya\OneDrive\Desktop\JavaProject\Logging)
+29/Nov/2024 12:59:38 pm [main] DEBUG c.aditya.Logging.LoggingApplication - Running with Spring Boot v3.4.0, Spring v6.2.0
+29/Nov/2024 12:59:38 pm [main] INFO  c.aditya.Logging.LoggingApplication - No active profile set, falling back to 1 default profile: "default"
+29/Nov/2024 12:59:40 pm [main] INFO  c.aditya.Logging.LoggingApplication - Started LoggingApplication in 3.245 seconds (process running for 3.803)
+29/Nov/2024 01:00:05 pm [http-nio-8080-exec-1] INFO  c.a.L.Controller.LoggingController - Fetching details for user with ID: 2
+29/Nov/2024 01:01:49 pm [http-nio-8080-exec-4] INFO  c.a.L.Controller.LoggingController - Fetching details for user with ID: 2
+29/Nov/2024 01:02:43 pm [http-nio-8080-exec-7] INFO  c.a.L.Controller.LoggingController - Fetching details for user with ID: 2
+29/Nov/2024 01:02:50 pm [http-nio-8080-exec-10] INFO  c.a.L.Controller.LoggingController - Fetching details for user with ID: 3
+29/Nov/2024 06:23:47 pm [main] INFO  c.aditya.Logging.LoggingApplication - Starting LoggingApplication using Java 21.0.2 with PID 20200 (C:\Users\Aditya\OneDrive\Desktop\JavaProject\Logging\target\classes started by Aditya in C:\Users\Aditya\OneDrive\Desktop\JavaProject\Logging)
+29/Nov/2024 06:23:47 pm [main] DEBUG c.aditya.Logging.LoggingApplication - Running with Spring Boot v3.4.0, Spring v6.2.0
+29/Nov/2024 06:23:47 pm [main] INFO  c.aditya.Logging.LoggingApplication - No active profile set, falling back to 1 default profile: "default"
